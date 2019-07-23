@@ -1,0 +1,9 @@
+{
+	"main":{
+		"welcome": "Welcome to Your Vue.js App",
+		"installed": "Installed CLI Plugins",
+		"links": "Essential Links",
+		"ecosystem": "Ecosystem"
+
+	}
+}
