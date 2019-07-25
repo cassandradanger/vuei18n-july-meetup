@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
     <h1>{{ $t("message.main.welcome") }}</h1>
+    <i18n path="message.main.testing" tag="p">
+      <span place="variable">BLAHAHAHHAHHA</span>
+    </i18n>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the

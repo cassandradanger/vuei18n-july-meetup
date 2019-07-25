@@ -3,7 +3,7 @@
 		"welcome": "Welcome to Your Vue.js App",
 		"installed": "Installed CLI Plugins",
 		"links": "Essential Links",
-		"ecosystem": "Ecosystem"
-
+		"ecosystem": "Ecosystem",
+		"testing": "this is a testing {variable} thing where I can place a variable"
 	}
 }
